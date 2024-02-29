@@ -34,7 +34,7 @@ Este proyecto contiene requisitos previos para ser usado.
 ## Proyecto Desplegado
 
 ### Descripción
-La API REST fue subida a un servicio ftp llamado somee, nos brinda una base de datos en la web y 150mb de espacio para nuestro proyecto, lo cual me permitió poder desplegar la Pokemon Api, el subdominio que puse fue de **pokemasterapi** por el nombre de la prueba tecnica. 
+La API REST fue subida a un servicio ftp llamado somee, nos brinda una base de datos en la web y 150mb de espacio para nuestro proyecto, lo cual me permitió poder desplegar la Pokemon Api, el subdominio que puse fue de **pokemasterapi** por el nombre de la prueba tecnica. Verificar que el protocolo de la URL sea http,pues este servicio no tiene soporte para https. 
 
 ### URLs
  
