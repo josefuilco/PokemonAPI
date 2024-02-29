@@ -8,9 +8,10 @@ Este proyecto contiene requisitos previos para ser usado.
  1. Tener instalado SQL Server.
  2. Ejecutar el archivo Create_Query.sql en SQL Server (El archivo se encuentra en la carpeta DataBaseQuery, en el mismo se encuentra la forma de revertir la base de datos).
  3. Tener instalado Visual Studio Community 2022.
- 4. Abrir la solucion que se encuentra en la carpeta PokemonAPI.
- 4. Instalar los paquetes desde NuGet de EntityFrameworkCore.Tools y EntityFrameworkCore.SqlServer.
- 5. Tener postman para probar los endpoints de la API.
+ 4. Tener el SDK de NET 8 Runtime (a largo plazo). 
+ 5. Abrir la solucion que se encuentra en la carpeta PokemonAPI.
+ 6. Instalar los paquetes desde NuGet de EntityFrameworkCore.Tools y EntityFrameworkCore.SqlServer.
+ 7. Tener postman para probar los endpoints de la API.
 
 ## Clonar el Repositorio
  1. Abre una terminal.
