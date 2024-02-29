@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Cors;
 
 namespace PokemonAPI.Controllers
 {
+    [EnableCors("RuleCORS")]
     [ApiController]
     [Route("api/[controller]")]
     public class PokemonController : Controller

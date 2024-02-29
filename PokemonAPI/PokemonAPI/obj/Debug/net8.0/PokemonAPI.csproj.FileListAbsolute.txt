@@ -134,3 +134,4 @@ C:\Users\fuilc\OneDrive\Desktop\Archivos\Prueba_Tecnica_Caja_Ica\PokemonAPI\Poke
 C:\Users\fuilc\OneDrive\Desktop\Archivos\Prueba_Tecnica_Caja_Ica\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.pdb
 C:\Users\fuilc\OneDrive\Desktop\Archivos\Prueba_Tecnica_Caja_Ica\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.genruntimeconfig.cache
 C:\Users\fuilc\OneDrive\Desktop\Archivos\Prueba_Tecnica_Caja_Ica\PokemonAPI\PokemonAPI\obj\Debug\net8.0\ref\PokemonAPI.dll
+C:\Users\fuilc\OneDrive\Desktop\Archivos\Prueba_Tecnica_Caja_Ica\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.sourcelink.json

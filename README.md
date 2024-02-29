@@ -22,7 +22,7 @@ Este proyecto contiene requisitos previos para ser usado.
  3. Asegurate que esa cadena de conexion esta adaptada a tu SQL Server.
 
 ## Levantar el Proyecto
- 1. Ya que esta configurado el proyecto, se puede levantar dando al boton de corren (http) en el Visual Studio Community.
+ 1. Ya que esta configurado el proyecto, se puede levantar dando al boton de correr (http) en el Visual Studio Community.
 
 ## Endpoints Disponibles
  1. Tenemos en total 5 peticiones GET.
