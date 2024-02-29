@@ -1,5 +1,5 @@
 # POKEMON WEB API - ASP.NET CORE
----
+
 ## Introduccion
 En esta documentacion proporcionare las intrucciones paso a paso para poder levantar el proyecto. El proyecto cuenta con una interfaz grafica documentada en Swagger, para facilitar las pruebas de la API.
 Este proyecto contiene requisitos previos para ser usado.
@@ -30,3 +30,29 @@ Este proyecto contiene requisitos previos para ser usado.
  2. Tenemos 1 peticion POST que sirve para guardar datos en la base de datos.
  3. Tenemos 1 peticion PUT para actualizar datos curiosos de los pokemons.
  4. Tenemos 1 peticion DELETE para eliminar a un pokemon de la base de datos.
+
+## Proyecto Desplegado
+
+### Descripción
+La API REST fue subida a un servicio ftp llamado somee, nos brinda una base de datos en la web y 150mb de espacio para nuestro proyecto, lo cual me permitió poder desplegar la Pokemon Api, el subdominio que puse fue de **pokemasterapi** por el nombre de la prueba tecnica. 
+
+### URLs
+ 
+ 1. Swagger UI
+ - https://pokemasterapi.somee.com/swagger/index.html
+ 2. Endpoint GET Listar
+ - https://pokemasterapi.somee.com/api/Pokemon
+ 3. Endpoint GET Traer un pokemon
+ - https://pokemasterapi.somee.com/api/Pokemon/{id}
+ 4. Endpoint GET ver tipos
+ - https://pokemasterapi.somee.com/api/Pokemon/Tipos
+ 5. Endpoint GET ver Rarezas
+ - https://pokemasterapi.somee.com/api/Pokemon/Rarezas
+ 6. Endpoint GET ver alimentaciones
+ - https://pokemasterapi.somee.com/api/Pokemon/Alimentaciones
+ 7. Endpoint POST guardar pokemon
+ - https://pokemasterapi.somee.com/api/Pokemon
+ 8. Endpoint PUT cambiar dato curioso
+ - https://pokemasterapi.somee.com/api/Pokemon
+ 9. Endpoint DELETE borrar un pokemom
+ - https://pokemasterapi.somee.com/api/Pokemon/Borrar/{id} 
