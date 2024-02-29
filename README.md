@@ -39,20 +39,20 @@ La API REST fue subida a un servicio ftp llamado somee, nos brinda una base de d
 ### URLs
  
  1. Swagger UI
- - https://pokemasterapi.somee.com/swagger/index.html
+ - http://pokemasterapi.somee.com/swagger/index.html
  2. Endpoint GET Listar
- - https://pokemasterapi.somee.com/api/Pokemon
+ - http://pokemasterapi.somee.com/api/Pokemon
  3. Endpoint GET Traer un pokemon
- - https://pokemasterapi.somee.com/api/Pokemon/{id}
+ - http://pokemasterapi.somee.com/api/Pokemon/{id}
  4. Endpoint GET ver tipos
- - https://pokemasterapi.somee.com/api/Pokemon/Tipos
+ - http://pokemasterapi.somee.com/api/Pokemon/Tipos
  5. Endpoint GET ver Rarezas
- - https://pokemasterapi.somee.com/api/Pokemon/Rarezas
+ - http://pokemasterapi.somee.com/api/Pokemon/Rarezas
  6. Endpoint GET ver alimentaciones
- - https://pokemasterapi.somee.com/api/Pokemon/Alimentaciones
+ - http://pokemasterapi.somee.com/api/Pokemon/Alimentaciones
  7. Endpoint POST guardar pokemon
- - https://pokemasterapi.somee.com/api/Pokemon
+ - http://pokemasterapi.somee.com/api/Pokemon
  8. Endpoint PUT cambiar dato curioso
- - https://pokemasterapi.somee.com/api/Pokemon
+ - http://pokemasterapi.somee.com/api/Pokemon
  9. Endpoint DELETE borrar un pokemom
- - https://pokemasterapi.somee.com/api/Pokemon/Borrar/{id} 
+ - http://pokemasterapi.somee.com/api/Pokemon/Borrar/{id} 
